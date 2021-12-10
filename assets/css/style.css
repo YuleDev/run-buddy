@@ -278,6 +278,8 @@ address {
   height: 400px;
 }
 
+/* this part isnt working */
+
 .contact-info div {
   width: 410px;
   display: inline-block;
@@ -286,3 +288,23 @@ address {
   margin: 30px 0 0 60px;
   color: white;
 }
+
+/* which is breaking the following */
+
+.contact-info h3 {
+  color: #fce138;
+  font-size: 32px;
+}
+
+.contact-info p, .contact-info address {
+  margin: 20px 0;
+  line-height: 1.5;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.contact-info a {
+  color: #fce138;
+}
+
+/* REACH OUT STYLES END */
