@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Deployed Website
-https://bullmoosedev.github.io/run-buddy/
+https://YuleDev.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kole Ervine
